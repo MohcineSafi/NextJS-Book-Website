@@ -24,10 +24,6 @@ export default function SideBar() {
       title: "RateUs",
       icon: <i className="fa fa-star" style={iconStyle}></i>,
     },
-    {
-      title: "Settings",
-      icon: <i className="fa fa-cog" style={iconStyle}></i>,
-    },
   ];
   return (
     <>
